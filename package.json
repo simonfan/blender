@@ -1,16 +1,16 @@
 {
-  "name": "blend",
-  "version": "1.0.0-alpha.0",
+  "name": "@orioro/blend",
+  "version": "1.0.0-alpha.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "blender": "node ./bin/index.js"
+    "blend": "node ./bin/index.js"
   },
   "author": "",
   "license": "ISC",
   "bin": {
-    "blender": "./bin/index.js"
+    "blend": "./bin/index.js"
   },
   "devDependencies": {
     "should": "^13.1.3"
