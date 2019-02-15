@@ -1,6 +1,6 @@
 {
-  "name": "code-blender",
-  "version": "0.0.0",
+  "name": "blend",
+  "version": "1.0.0-alpha.0",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
