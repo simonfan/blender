@@ -12,6 +12,9 @@
   "bin": {
     "blend": "./bin/index.js"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "should": "^13.1.3"
   },
