@@ -1,0 +1,9 @@
+body {
+  background-color: lightblue;
+  font-family: sans-serif;
+}
+
+button::after {
+  content: 'after-button';
+  margin-left: 20px;
+}

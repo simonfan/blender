@@ -1,0 +1,7 @@
+{
+  "ignore": [
+    "ignored_dir/**/*",
+    "ignored_file.txt",
+    "**/*.ignored_ext"
+  ]
+}
