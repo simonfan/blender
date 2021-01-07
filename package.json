@@ -28,16 +28,22 @@
   "dependencies": {
     "camelcase": "^6.2.0",
     "chalk": "^4.1.0",
+    "cli-progress": "^3.8.2",
     "crypto-random-string": "^3.3.0",
     "decamelize": "^4.0.0",
     "humanize-string": "^2.1.0",
     "inquirer": "^7.3.3",
+    "lodash": "^4.17.20",
     "mkdirp": "^1.0.4",
+    "nodegit": "^0.27.0",
     "nunjucks": "^3.2.2",
     "pascalcase": "^1.0.0",
     "through2": "^4.0.2",
+    "tildify": "^2.0.0",
     "titleize": "^2.1.0",
+    "tmp": "^0.2.1",
     "untildify": "^4.0.0",
+    "valid-url": "^1.0.9",
     "vinyl-fs": "^3.0.3",
     "yargs": "^16.2.0"
   }
